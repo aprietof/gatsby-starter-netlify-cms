@@ -15,10 +15,10 @@ const TemplateWrapper = ({ children }) => (
         content="Small Island Developing States Photo Submission"
       />
       <meta name="twitter:description" content="View the album on Flickr." />
-      {/* <meta
+      <meta
         name="twitter:image"
         content="https://farm6.staticflickr.com/5510/14338202952_93595258ff_z.jpg"
-      /> */}
+      />
       <meta
         property="og:image"
         content="https://fossbytes.com/wp-content/uploads/2017/06/Facebook.jpg"
