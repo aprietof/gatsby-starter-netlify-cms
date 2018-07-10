@@ -8,7 +8,7 @@ import './all.sass';
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet>
-      <meta name="twitter:card" content="summary" />
+      <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:site" content="@flickr" />
       <meta
         name="twitter:title"
